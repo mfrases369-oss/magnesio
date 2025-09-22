@@ -1,0 +1,832 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://areviewsapp.com/css/reviews_online.css
+File Name: C:\Downloaded Web Sites\movanutricional.com\css\reviews_online.css
+Content Type: text/css
+
+Uri: https://areviewsapp.com/js_codes/areviews_app.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\js_codes\areviews_app.js
+Content Type: application/javascript
+
+Uri: https://areviewsapp.com/js_codes/areviews_main_jscodes.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\js_codes\areviews_main_jscodes.js
+Content Type: application/javascript
+
+Uri: https://cdn.shopify.com/s/files/1/0768/5249/4578/files/ChatGPT_Image_17_de_set._de_2025_16_37_34.png?v=1758137882
+File Name: C:\Downloaded Web Sites\movanutricional.com\s\files\1\0768\5249\4578\files\ChatGPT_Image_17_de_set._de_2025_16_37_34.png
+Content Type: image/png
+
+Uri: https://cdn.shopify.com/s/files/1/2473/4742/t/7/assets/arrow-down.svg
+File Name: C:\Downloaded Web Sites\movanutricional.com\s\files\1\2473\4742\t\7\assets\arrow-down.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.yampi.me/shopify/checkout.css
+File Name: C:\Downloaded Web Sites\movanutricional.com\shopify\checkout.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\movanutricional.com\ajax\libs\font-awesome\6.0.0-beta3\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_1058x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_1058x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/1_9e3ba265-fb25-460e-a576-9514978aa61b_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\1_9e3ba265-fb25-460e-a576-9514978aa61b_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_1058x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_1058x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/2_e1d8374a-af3e-4842-89c8-471afef3fd86_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\2_e1d8374a-af3e-4842-89c8-471afef3fd86_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_1058x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_1058x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/3_cf96050b-dc8d-4cc7-9959-33b3416f5660_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\3_cf96050b-dc8d-4cc7-9959-33b3416f5660_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_1058x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_1058x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/4_7b701bd8-4682-4e67-b467-5d8ee92efabb_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\4_7b701bd8-4682-4e67-b467-5d8ee92efabb_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_1058x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_1058x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_110x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_110x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_165x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_165x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_55x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_55x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/5_789ca232-aaf6-439b-92ae-6ce8a3471382_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\5_789ca232-aaf6-439b-92ae-6ce8a3471382_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_1058x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_1058x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\6_e32ca640-128a-4b1d-8a9b-1bd483bca7ee_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_1058x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_1058x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\7_d5c9d7de-38e2-4ce1-8ed3-3d2bab6ff373_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_1080x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_1080x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Designsemnome-2025-09-17T162031.131_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Designsemnome-2025-09-17T162031.131_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_1000x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_1000x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_1058x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_1058x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_120x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_120x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_144x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_144x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_180x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_180x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_216x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_216x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_240x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_240x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_288x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_288x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_400x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_400x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_500x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_500x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_600x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_600x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_60x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_60x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_700x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_700x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_72x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_72x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_800x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_800x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/Design_sem_nome_13_900x.png?v=1758136856
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\Design_sem_nome_13_900x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/files/DROPFY_5_330x.png?v=1758137074
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\files\DROPFY_5_330x.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/AMEX.svg?v=156721050750723113511758131629
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\AMEX.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/arrow-left.svg?v=57802358627795424921758131644
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/arrow-right.svg?v=68514796191813554541758131644
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/AURA.svg?v=74321338444638128441758131629
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\AURA.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/BOLETO.svg?v=134186075353682252391758131629
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\BOLETO.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/correios.png?v=73973234352233545991758131629
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\correios.png
+Content Type: image/png
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/custom.js?v=165930397078196874451758131629
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\custom.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/DINNERS.svg?v=43760574535310140211758131629
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\DINNERS.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/DISCOVER.svg?v=51104008127175826311758131629
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\DISCOVER.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/ELO.svg?v=57363376252194448211758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\ELO.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/flickity.js?v=4101124369061427901758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\flickity.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/google-site-seguro-pt.svg?v=155074155766319559741758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\google-site-seguro-pt.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/HIPERCARD.svg?v=118215574350710381721758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\HIPERCARD.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/MASTERCARD.svg?v=103501794080103759821758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\MASTERCARD.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/parcelamento.css?v=103717487089465993121758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\parcelamento.css
+Content Type: text/css
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/PIX.svg?v=106757000572440841201758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\PIX.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/Reclameaqui.svg?v=26705177644068796991758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\Reclameaqui.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/SSL.svg?v=141831784581712243861758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\SSL.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/theme.min.css?v=41823322061115421581758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\theme.min.css
+Content Type: text/css
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/theme.min.js?v=48463735639113041111758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\theme.min.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/vendor.js?v=162644391628613446311758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\vendor.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/VISA.svg?v=7465368297978241971758131630
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\VISA.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shop/t/12/assets/zoom-cursor.svg?v=45768186756727066451758131644
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shop\t\12\assets\zoom-cursor.svg
+Content Type: image/svg+xml
+
+Uri: https://movanutricional.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-2.0.8.min.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shopifycloud\perf-kit\shopify-perf-kit-2.0.8.min.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shopifycloud\portable-wallets\latest\accelerated-checkout-backwards-compat.css
+Content Type: text/css
+
+Uri: https://movanutricional.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.pt-br.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shopifycloud\portable-wallets\latest\portable-wallets.pt-br.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/cdn/shopifycloud/shop-js/client.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shopifycloud\shop-js\client.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\cdn\shopifycloud\storefront\assets\storefront\load_feature-81c60534.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/checkouts/internal/preloads.js?locale=pt-BR
+File Name: C:\Downloaded Web Sites\movanutricional.com\checkouts\internal\preloads.js
+Content Type: application/javascript
+
+Uri: https://movanutricional.com/products/promo-kit
+File Name: C:\Downloaded Web Sites\movanutricional.com\products\promo-kit-1.html
+Content Type: text/html
+
+Uri: https://movanutricional.com/products/promo-kit.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\products\promo-kit.js
+Content Type: text/javascript
+
+Uri: https://movanutricional.com/products/promo-kit.oembed
+File Name: C:\Downloaded Web Sites\movanutricional.com\products\promo-kit.oembed
+Content Type: application/json+oembed
+
+Uri: https://movanutricional.com/products/promo-kit?fbclid=IwY2xjawM-NqxleHRuA2FlbQIxMABicmlkETFLRWI1UFEyVUJJenVhSUM2AR7UB3rsDMuyQz1KjfHPXE7uBFu7muMZjtvE_t4SfIaJ7_SdEWlFDwXSdyZX6g_aem_VHQqFbYU5dzBqUjCw2M7BA
+File Name: C:\Downloaded Web Sites\movanutricional.com\products\promo-kit.html
+Content Type: text/html
+
+Uri: https://size-charts-relentless.herokuapp.com/css/size-charts-relentless.css
+File Name: C:\Downloaded Web Sites\movanutricional.com\css\size-charts-relentless.css
+Content Type: text/css
+
+Uri: https://size-charts-relentless.herokuapp.com/img/arrows1.png
+File Name: C:\Downloaded Web Sites\movanutricional.com\img\arrows1.png
+Content Type: image/png
+
+Uri: https://size-charts-relentless.herokuapp.com/img/arrows2.png
+File Name: C:\Downloaded Web Sites\movanutricional.com\img\arrows2.png
+Content Type: image/png
+
+Uri: https://size-charts-relentless.herokuapp.com/img/protractor.png
+File Name: C:\Downloaded Web Sites\movanutricional.com\img\protractor.png
+Content Type: image/png
+
+Uri: https://size-charts-relentless.herokuapp.com/img/ruler1.png
+File Name: C:\Downloaded Web Sites\movanutricional.com\img\ruler1.png
+Content Type: image/png
+
+Uri: https://size-charts-relentless.herokuapp.com/img/ruler2.png
+File Name: C:\Downloaded Web Sites\movanutricional.com\img\ruler2.png
+Content Type: image/png
+
+Uri: https://size-charts-relentless.herokuapp.com/img/ruler3.png
+File Name: C:\Downloaded Web Sites\movanutricional.com\img\ruler3.png
+Content Type: image/png
+
+Uri: https://size-charts-relentless.herokuapp.com/img/ruler4.png
+File Name: C:\Downloaded Web Sites\movanutricional.com\img\ruler4.png
+Content Type: image/png
+
+Uri: https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\ionicons@5.5.2\dist\ionicons\ionicons.esm.js
+Content Type: text/javascript
+
+Uri: https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js
+File Name: C:\Downloaded Web Sites\movanutricional.com\ionicons@5.5.2\dist\ionicons\ionicons.js
+Content Type: text/javascript
+
