@@ -3196,7 +3196,7 @@ Shopify.routes.root = "/";</script>
 (function(){
   'use strict';
 
-  // Aqui você define cada sabor e o link fixo do checkout
+  // Mapeamento: cada opção → link fixo de checkout
   const checkoutLinks = {
     "Kit Maracujá": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
     "Kit Abacaxi com Hortelã": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
@@ -3210,38 +3210,27 @@ Shopify.routes.root = "/";</script>
   var FORM_ID = 'product-form-template--20290817687794__main-8830861017330';
   var buyButton = document.querySelector('button.product-form__add-button');
 
+  // Pega a opção selecionada
   function getSelectedOption(){
-    // Pega o texto da opção atualmente escolhida
     var selected = document.querySelector('#' + FORM_ID + ' .select__selected-value');
     return selected ? selected.textContent.trim() : '';
   }
 
-  function updateBuyButton(){
+  // Força o botão a redirecionar para o checkout certo
+  function forceCheckout(e){
+    e.preventDefault(); // impede o submit original
     var option = getSelectedOption();
     var checkoutUrl = checkoutLinks[option];
     if (checkoutUrl) {
-      buyButton.onclick = function(e){
-        e.preventDefault();
-        window.location.href = checkoutUrl;
-      };
+      window.location.href = checkoutUrl;
     } else {
-      buyButton.onclick = function(e){
-        e.preventDefault();
-        alert("Esta opção ainda não tem checkout configurado.");
-      };
+      alert("Esta opção ainda não tem checkout configurado.");
     }
   }
 
-  // Atualiza sempre que muda a opção
-  document.addEventListener('change', updateBuyButton);
-  document.addEventListener('click', function(e){
-    if (e.target.closest('.combo-box__option-item')) {
-      setTimeout(updateBuyButton, 50);
-    }
-  });
-
-  // Inicializa
-  updateBuyButton();
+  if (buyButton) {
+    buyButton.addEventListener("click", forceCheckout, true);
+  }
 })();
 </script>
 <!-- FIM: Script de atualização do botão de checkout -->
