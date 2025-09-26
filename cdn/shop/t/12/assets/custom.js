@@ -1,12 +1,12 @@
 document.addEventListener("DOMContentLoaded", function () {
   const checkoutLinks = {
-    "Kit Maracujá": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
-    "Kit Abacaxi com Hortelã": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
-    "Kit Frutas Vermelhas": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
-    "Kit 1 De Cada Sabor": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
-    "1 De Frutas Vermelhas": "https://pay.ospagamentosseguros.shop/VroegN1JlB1GKwj",
-    "1 De Abacaxi com Hortelã": "https://pay.ospagamentosseguros.shop/VroegN1JlB1GKwj",
-    "1 De Maracujá": "https://pay.ospagamentosseguros.shop/VroegN1JlB1GKwj"
+    "Kit Maracujá": "https://pay.ospagamentosseguros.shop/521rZJzE9J4ZeaX",
+    "Kit Abacaxi com Hortelã": "https://pay.ospagamentosseguros.shop/JqoR32bk82A3Vj5",
+    "Kit Frutas Vermelhas": "https://pay.ospagamentosseguros.shop/KV603ko7bk03w8y",
+    "Kit 1 De Cada Sabor": "https://pay.ospagamentosseguros.shop/a6pVgd2Y0RxZk7B",
+    "1 De Frutas Vermelhas": "https://pay.ospagamentosseguros.shop/QqyLgqoV9ldZvkE",
+    "1 De Abacaxi com Hortelã": "https://pay.ospagamentosseguros.shop/nWrxGWA4J0D3654",
+    "1 De Maracujá": "https://pay.ospagamentosseguros.shop/P5LNZ8zld4QgaRy"
   };
 
   let selectedFlavor = null;
