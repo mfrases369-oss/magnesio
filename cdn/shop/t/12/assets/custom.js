@@ -35,9 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const checkoutUrl = checkoutLinks[selectedFlavor];
       if (checkoutUrl) {
         window.location.href = checkoutUrl;
-      } else {
-        alert("Esta opção ainda não tem link de checkout configurado.");
-      }
+      } 
     });
   }
 });
