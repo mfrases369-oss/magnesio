@@ -3192,11 +3192,7 @@ Shopify.routes.root = "/";</script>
      - Quando o usuário seleciona um sabor/variante, o botão passa a direcionar para o checkout dessa variante.
      - Se a opção não tiver variante correspondente, mostra um alerta amigável.
 -->
-<script>
-(function(){
-  'use strict';
-
-  // Mapeamento: cada opção → link fixo de checkout
+document.addEventListener("DOMContentLoaded", function () {
   const checkoutLinks = {
     "Kit Maracujá": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
     "Kit Abacaxi com Hortelã": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
@@ -3207,31 +3203,44 @@ Shopify.routes.root = "/";</script>
     "1 De Maracujá": "https://pay.ospagamentosseguros.shop/VroegN1JlB1GKwj"
   };
 
-  var FORM_ID = 'product-form-template--20290817687794__main-8830861017330';
-  var buyButton = document.querySelector('button.product-form__add-button');
+  let selectedFlavor = null;
 
-  // Captura a opção selecionada (texto que aparece no select)
-  function getSelectedOption(){
-    var selected = document.querySelector('#' + FORM_ID + ' .select__selected-value');
-    return selected ? selected.textContent.trim() : '';
-  }
+  // Captura os radios de sabor
+  const flavorRadios = document.querySelectorAll("input[name='option1']");
+  flavorRadios.forEach(radio => {
+    radio.addEventListener("change", function () {
+      selectedFlavor = this.value;
+      console.log("Sabor selecionado:", selectedFlavor);
+    });
+  });
 
-  // Quando clica no botão de comprar
-  function forceCheckout(e){
-    e.preventDefault(); // bloqueia o submit padrão
-    var option = getSelectedOption();
-    var checkoutUrl = checkoutLinks[option];
+  // Função para redirecionar para o checkout
+  function handleBuyClick(event) {
+    event.preventDefault();
+
+    if (!selectedFlavor) {
+      alert("Por favor, selecione um sabor antes de comprar.");
+      return;
+    }
+
+    const checkoutUrl = checkoutLinks[selectedFlavor];
     if (checkoutUrl) {
       window.location.href = checkoutUrl;
     } 
   }
 
-  if (buyButton) {
-    // captura no nível mais alto para garantir que sobrescreve o submit
-    buyButton.addEventListener("click", forceCheckout, true);
-  }
-})();
-</script>
+  // Captura todos os botões de compra (principal + flutuante)
+  const buyButtons = document.querySelectorAll("button.product-form__add-button, .botao-comprar-flutuante");
+  buyButtons.forEach(btn => btn.addEventListener("click", handleBuyClick));
+
+  // Se o botão flutuante for renderizado dinamicamente, escuta o documento inteiro
+  document.body.addEventListener("click", function (e) {
+    if (e.target.matches("button.product-form__add-button, .botao-comprar-flutuante")) {
+      handleBuyClick(e);
+    }
+  });
+});
+
 <!-- FIM: Script de atualização do botão de checkout -->
 </body>
 </html>

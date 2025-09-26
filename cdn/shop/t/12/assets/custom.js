@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Mapeamento: cada sabor → link fixo de checkout
   const checkoutLinks = {
     "Kit Maracujá": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
     "Kit Abacaxi com Hortelã": "https://pay.ospagamentosseguros.shop/zj6aGnAjN0WZwlK",
@@ -21,21 +20,29 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
-  // Captura o botão de compra
-  const buyButton = document.querySelector("button.product-form__add-button");
-  if (buyButton) {
-    buyButton.addEventListener("click", function (e) {
-      e.preventDefault();
+  // Função para redirecionar para o checkout
+  function handleBuyClick(event) {
+    event.preventDefault();
 
-      if (!selectedFlavor) {
-        alert("Por favor, selecione um sabor antes de comprar.");
-        return;
-      }
+    if (!selectedFlavor) {
+      alert("Por favor, selecione um sabor antes de comprar.");
+      return;
+    }
 
-      const checkoutUrl = checkoutLinks[selectedFlavor];
-      if (checkoutUrl) {
-        window.location.href = checkoutUrl;
-      } 
-    });
+    const checkoutUrl = checkoutLinks[selectedFlavor];
+    if (checkoutUrl) {
+      window.location.href = checkoutUrl;
+    } 
   }
+
+  // Captura todos os botões de compra (principal + flutuante)
+  const buyButtons = document.querySelectorAll("button.product-form__add-button, .botao-comprar-flutuante");
+  buyButtons.forEach(btn => btn.addEventListener("click", handleBuyClick));
+
+  // Se o botão flutuante for renderizado dinamicamente, escuta o documento inteiro
+  document.body.addEventListener("click", function (e) {
+    if (e.target.matches("button.product-form__add-button, .botao-comprar-flutuante")) {
+      handleBuyClick(e);
+    }
+  });
 });
